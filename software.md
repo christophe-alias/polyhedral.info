@@ -106,6 +106,7 @@ Libraries to perform calculations on polyhedra.
 Scripting
 =========
  * [islpy](documen.tician.de/islpy)
+ * [fkcc](https://foobar.ens-lyon.fr/fkcc/)
 
 Visualization
 =============
